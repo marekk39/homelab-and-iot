@@ -1,4 +1,4 @@
-# hardware inventory and updates
+# HARDWARE INVENTORY - PLANS - UPDATES
 
 ## October 5th, ordered Router, Switch, USD dock
 - Router: TP-Link ER605 (Omada)
