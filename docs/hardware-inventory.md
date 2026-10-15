@@ -10,9 +10,7 @@
 - Will consult with Jozef Gnebus
 
 ## SCHEDULED PURCHASES FOR BLACK FRIDAY SALES
-- Raspberry Pi 5 8GB
-- Raspberry Pi 5 Active Cooler
-- Raspberry Pi 27W USB-C napájací zdroj
+- 1TB SSD
 
 ## Disk 1, taken out of the old PC ready to be used
 - Samsung 870 EVO 931GB
@@ -20,3 +18,7 @@
 (mirrored disks)
 
 ## October 9th, Router, Switch, USB dock all came trough mail
+
+## October 15th, conversation with network provider to allow MAC address of new router
+- Also major CHANGE, taken Raspberry PI5 out of the plan and replaced it with mini pc which fits into the labrax rack surprisingly
+- the mini PC will have 32GB of DDR4 ram (2x16GB) so I take that as a major upgrade for the same price
