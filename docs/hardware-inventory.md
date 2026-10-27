@@ -1,24 +1,15 @@
-# HARDWARE INVENTORY - PLANS - UPDATES
+**Network Infrastructure**
+* **Router:** TP-Link ER605 (Omada)[cite: 4]
+* **Switch:** TP-Link TL-SG108E (Smart Managed)[cite: 4]
+* **Access Point:** Old router configured in AP mode
 
-## October 5th, ordered Router, Switch, USB dock
-- Router: TP-Link ER605 (Omada)
-- Switch: TP-Link TL-SG108E
-- USB dock: AXAGON ADSA-D25 (dual 2.5" SATA)
+**Server & Storage**
+* **Server Node:** HP ProDesk 800 G3 Mini PC[cite: 4]
+  * *Specs:* 32GB DDR4 RAM, 256GB internal SSD[cite: 4]
+  * *Note:* Replaced the Raspberry Pi 5. Provides more RAM for virtualization and fits the 10-inch rack.
+* **Storage Dock:** AXAGON ADSA-D25 (Dual 2.5" SATA)[cite: 4]
+* **Disk 1:** Samsung 870 EVO 931GB (reused from old PC)
+* **Disk 2:** Planned for Black Friday sales (Q3/Q4) for a mirrored setup
 
-## October 6th, fetching 3d model for Lab Rax 10" rack
-(Chose this 3d printed rack as it would be cheaper and is more then enough for this project (future upgrades accounted for))
-- Will consult with Jozef Gnebus
-
-## SCHEDULED PURCHASES FOR BLACK FRIDAY SALES
-- 1TB SSD
-
-## Disk 1, taken out of the old PC ready to be used
-- Samsung 870 EVO 931GB
-## Disk 2, planned to purchase during black friday sales / Q3/Q4 
-(mirrored disks)
-
-## October 9th, Router, Switch, USB dock all came trough mail
-
-## October 15th, conversation with network provider to allow MAC address of new router
-- Also major CHANGE, taken Raspberry PI5 out of the plan and replaced it with mini pc which fits into the labrax rack surprisingly
-- the mini PC will have 32GB of DDR4 ram (2x16GB) so I take that as a major upgrade for the same price
+**Rack Structure**
+* **Lab Rax 10" Rack:** 3D printed. Cheap and flexible for future upgrades. Consulted and printed with Jozef Gnebus.
